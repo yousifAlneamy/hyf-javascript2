@@ -1,0 +1,225 @@
+[
+    {
+        "name": "Didac"
+    },
+    {
+        "name": "Jamshid",
+        "city": "Amsterdam",
+        "age": 33,
+        "hobbies": [
+            "jogging",
+            "swimming",
+            "reading"
+        ]
+    },
+    {
+        "name": "hamza ",
+        "age": 20,
+        "hobbies ": [
+            " Reading ",
+            "Gaming "
+        ]
+    },
+    {
+        "name": "Kenan",
+        "city": "Amsterdam",
+        "age": "21",
+        "hobbies": [
+            "Gaming",
+            "Football"
+        ]
+    },
+    {
+        "name": "Fadi",
+        "age": "24",
+        "city": "Rotterdam",
+        "hobbies": "codding"
+    },
+    {
+        "name": "Fadi",
+        "age": "24",
+        "city": "Rotterdam",
+        "hobbies": "codding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": "Kemirdin",
+        "city": "bilthoven",
+        "age": "34",
+        "hobbies": "coding"
+    },
+    {
+        "name": " Diana ",
+        "city": "Diemen",
+        "age": 30,
+        "hobbies": [
+            "basketball",
+            "swimming",
+            "running"
+        ]
+    },
+    {
+        "name": "Jason",
+        "city": "Utrecht",
+        "age": 300,
+        "hobbies": {
+            "hobby1": "running",
+            "hobby2": "hiding"
+        }
+    },
+    {
+        "name": "Jason",
+        "city": "Utrecht",
+        "age": 300,
+        "hobbies": {
+            "hobby1": "running",
+            "hobby2": "hiding"
+        }
+    },
+    {
+        "name": "Jason",
+        "city": "Utrecht",
+        "age": 300,
+        "hobbies": {
+            "hobby1": "running",
+            "hobby2": "hiding"
+        }
+    },
+    {
+        "name": "Jason",
+        "city": "Utrecht",
+        "age": 300,
+        "hobbies": {
+            "hobby1": "running",
+            "hobby2": "hiding"
+        }
+    },
+    {
+        "name": "dodo",
+        "city": " Burundi",
+        "age": 25,
+        "hobbies": [
+            "reading",
+            "gym"
+        ]
+    },
+    {
+        "name": "dodo",
+        "city": " Burundi",
+        "age": 25,
+        "hobbies": [
+            "reading",
+            "gym"
+        ]
+    },
+    {
+        "name": "dodo",
+        "city": " Burundi",
+        "age": 25,
+        "hobbies": [
+            "reading",
+            "gym"
+        ]
+    },
+    {
+        "name": "Hisham",
+        "city": "The Hague",
+        "age": 33,
+        "hobbies": [
+            "coding",
+            "Reading",
+            "skating"
+        ]
+    },
+    {
+        "name ": "anas",
+        "city": "Schiedam",
+        "age": 38,
+        "hobbies": [
+            "smoking",
+            "football",
+            "reading"
+        ]
+    },
+    {
+        "name": "Mahmut",
+        "age": "30",
+        "city": "Leeuwarden",
+        "hobbies": "football"
+    },
+    {
+        "name": "Mahmut",
+        "age": "30",
+        "city": "Leeuwarden",
+        "hobbies": "football"
+    },
+    {
+        "name": "Mahmut",
+        "age": "30",
+        "city": "Leeuwarden",
+        "hobbies": "football"
+    },
+    {
+        "name": "Mahmut",
+        "age": "30",
+        "city": "Leeuwarden",
+        "hobbies": "football"
+    },
+    {
+        "name": "Mahmut",
+        "age": "30",
+        "city": "Leeuwarden",
+        "hobbies": "football"
+    },
+    {
+        "name": "Mahmut",
+        "age": "30",
+        "city": "Leeuwarden",
+        "hobbies": "football"
+    },
+    {
+        "name ": "anas",
+        "city": "Schiedam",
+        "age": 38,
+        "hobbies": [
+            "smoking",
+            "football",
+            "reading"
+        ]
+    }
+]

@@ -14,7 +14,7 @@ const myData={
     ]
 };
 
-console.log('myData is an ${typeof myData} \n' );
+console.log(`myData is an ${typeof myData} \n`);
 console.log(myData);
 //printDivider();
 console.log(typeof myData);
